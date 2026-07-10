@@ -1,16 +1,24 @@
-# MrNothing Studio
+<div align="center">
 
-> Build your agent. Define your empire.
+# **MrNothing Studio**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-gold.svg)](LICENSE)
-[![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org)
-[![Part of](https://img.shields.io/badge/MrNothing-Ecosystem-purple)](https://github.com/Davidcarmelalex/MrNothing)
+### *Custom AI Agent Builder — Define Your Empire*
 
-**MrNothing Studio** is a bespoke AI agent builder — a digital atelier where you intuitively design, configure, and deploy custom AI agents that perfectly mirror your operational requirements and creative vision.
+[![License: MIT](https://img.shields.io/badge/License-MIT-gold.svg?style=flat-square)](LICENSE)
+[![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js&style=flat-square)](https://nextjs.org)
+[![Part of](https://img.shields.io/badge/MrNothing-Ecosystem-purple.svg?style=flat-square)](https://github.com/Davidcarmelalex/MrNothing)
 
-No engineering required. Build an agent in minutes.
+**No engineering required. Build an agent in minutes.**
+
+[What You Can Build](#what-you-can-build) · [Architecture](#architecture) · [Quick Start](#quick-start) · [Stack](#stack)
+
+</div>
 
 ---
+
+## What is MrNothing Studio?
+
+MrNothing Studio is a bespoke AI agent builder — a digital atelier where you intuitively design, configure, and deploy custom AI agents that perfectly mirror your operational requirements and creative vision.
 
 ## What You Can Build
 
@@ -21,8 +29,6 @@ No engineering required. Build an agent in minutes.
 | Research agent | Monitors sources, summarizes, reports |
 | Personal assistant | Manages schedule, drafts emails, tracks tasks |
 | Custom | Define skills, personality, tone, specialization |
-
----
 
 ## Architecture
 
@@ -39,13 +45,11 @@ mrnothing-studio/
 └── tests/
 ```
 
----
-
 ## Stack
 
-Next.js 16 · React 19 · TypeScript · Tailwind CSS 4 · OpenAI / Ollama runtime
+**Frontend:** Next.js 16 · React 19 · TypeScript · Tailwind CSS 4
 
----
+**AI Runtime:** OpenAI / Ollama
 
 ## Quick Start
 
@@ -56,8 +60,16 @@ cp .env.example .env.local
 npm run dev
 ```
 
+## Ecosystem
+
+MrNothing Studio is part of the **M&R&Nothing** ecosystem.
+
+- Agents deploy to **MrNothing OS** for mobile operation
+- Integrates with **VOID//SIGNAL** for research agents
+- Revenue via **VoltexBazar** marketplace listing
+
+→ [github.com/Davidcarmelalex/MrNothingEcosystem](https://github.com/Davidcarmelalex/MrNothingEcosystem)
+
 ---
 
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md).
+*MrNothing Studio — Build your agent. Define your empire.*
